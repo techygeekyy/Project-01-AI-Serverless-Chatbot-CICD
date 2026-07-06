@@ -1,13 +1,13 @@
 # 🌐 AI-Powered Serverless Web Platform with CI/CD & Intelligent ChatBot (Amazon Lex)
 
-## 🎥 Project Demonstration
-Watch the full automated deployment and AI chatbot interaction here:  
-**[▶️ Watch Project Video on My Portfolio](https://waves.in/project01.html)** 
-
 ## 📋 Project Overview
 This project demonstrates a fully automated, secure, and intelligent serverless web application built using modern AWS services. The architecture combines static website hosting, global content delivery, CI/CD automation, REST API integration, chatbot intelligence, backend processing, monitoring, and alerting — following enterprise cloud best practices. 
 
 The website is hosted privately on Amazon S3 and delivered globally through Amazon CloudFront using Origin Access Control (OAC) for enhanced security. The deployment process is fully automated using AWS CodePipeline integrated with GitHub, ensuring continuous delivery. The platform also integrates an AI chatbot powered by Amazon Lex, backend logic through AWS Lambda, API exposure using Amazon API Gateway, and contact form data storage in Amazon DynamoDB.
+
+## 🎥 Project Demonstration
+Watch the full automated deployment and AI chatbot interaction here:  
+**[▶️ Watch Project Video on My Portfolio](https://d2wzfn8f9c4zw5.cloudfront.net/project-01.html)** 
 
 **Project Context:** Intelligent AI ChatBot & Serverless Platform  
 **Timeline:** 8 Weeks (Logic Design & Integration)  
